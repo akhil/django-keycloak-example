@@ -1,0 +1,5 @@
+django
+#social-auth-app-django
+#social-auth-core[openidconnect]
+#python-keycloak
+django-allauth
